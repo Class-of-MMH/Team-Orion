@@ -13,7 +13,7 @@ the lines such that he consumes all the dots.
 
 <h2>Development Goal:</h2>
 The game's C files are used to control Pacman's velocity and direction, as well as to generate the route. The Pacman Game in C
-demonstrates the usage of user-defined struct data structure and the use of pointers.
+demonstrates the usage of user-defined struct data structure and the usage of pointers.
 
 <h2>Submitted By:</h2>
 <i>Sukhendra Nath Dhar (2021331024)</i></br>
